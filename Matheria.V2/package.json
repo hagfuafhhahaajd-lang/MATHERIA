@@ -1,0 +1,13 @@
+{
+  "name": "matheria-v2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Matheria V2 game server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
